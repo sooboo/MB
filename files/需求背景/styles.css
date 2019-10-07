@@ -66,7 +66,6 @@
   box-shadow:none;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-style:normal;
-  color:#666666;
   text-align:left;
   line-height:36px;
 }
@@ -78,7 +77,6 @@
   height:1221px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-style:normal;
-  color:#666666;
   text-align:left;
   line-height:36px;
 }
@@ -89,7 +87,7 @@
   width:1080px;
   word-wrap:break-word;
 }
-#u4_div {
+#u25_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -110,7 +108,7 @@
   text-align:left;
   line-height:28px;
 }
-#u4 {
+#u25 {
   position:absolute;
   left:52px;
   top:39px;
@@ -124,7 +122,7 @@
   text-align:left;
   line-height:28px;
 }
-#u5 {
+#u26 {
   position:absolute;
   left:0px;
   top:18px;
