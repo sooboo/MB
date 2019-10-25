@@ -9356,13 +9356,6 @@
   width:1px;
   height:1px;
 }
-#u1801_ann {
-  position:absolute;
-  left:1293px;
-  top:3128px;
-  width:1px;
-  height:1px;
-}
 #u1802_img {
   position:absolute;
   left:0px;
@@ -9421,6 +9414,13 @@
   top:0px;
   width:65px;
   white-space:nowrap;
+}
+#u1804_ann {
+  position:absolute;
+  left:109px;
+  top:3261px;
+  width:1px;
+  height:1px;
 }
 #u1806_img {
   position:absolute;
