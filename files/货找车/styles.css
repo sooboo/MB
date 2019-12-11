@@ -2111,7 +2111,7 @@
 #u2452 {
   position:absolute;
   left:71px;
-  top:767px;
+  top:758px;
   width:759px;
   height:50px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -2128,6 +2128,13 @@
   top:11px;
   width:759px;
   word-wrap:break-word;
+}
+#u2452_ann {
+  position:absolute;
+  left:823px;
+  top:754px;
+  width:1px;
+  height:1px;
 }
 #u2454 {
   position:absolute;
@@ -2183,6 +2190,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u2454_ann {
+  position:absolute;
+  left:1243px;
+  top:1009px;
+  width:1px;
+  height:1px;
+}
 #u2457_img {
   position:absolute;
   left:0px;
@@ -2232,6 +2246,13 @@
   width:755px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u2459_ann {
+  position:absolute;
+  left:823px;
+  top:834px;
+  width:1px;
+  height:1px;
 }
 #u2461_img {
   position:absolute;
@@ -2580,6 +2601,13 @@
   top:0px;
   width:614px;
   word-wrap:break-word;
+}
+#u2484_ann {
+  position:absolute;
+  left:823px;
+  top:2936px;
+  width:1px;
+  height:1px;
 }
 #u2486_img {
   position:absolute;
@@ -3147,6 +3175,13 @@
   width:136px;
   word-wrap:break-word;
 }
+#u2527_ann {
+  position:absolute;
+  left:673px;
+  top:1009px;
+  width:1px;
+  height:1px;
+}
 #u2529_img {
   position:absolute;
   left:0px;
@@ -3290,13 +3325,6 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u2539_ann {
-  position:absolute;
-  left:1243px;
-  top:727px;
-  width:1px;
-  height:1px;
-}
 #u2541_img {
   position:absolute;
   left:0px;
@@ -3318,6 +3346,13 @@
   top:21px;
   width:342px;
   word-wrap:break-word;
+}
+#u2541_ann {
+  position:absolute;
+  left:1221px;
+  top:758px;
+  width:1px;
+  height:1px;
 }
 #u2543 {
   position:absolute;
@@ -4294,6 +4329,13 @@
   top:6px;
   width:76px;
   word-wrap:break-word;
+}
+#u2592_ann {
+  position:absolute;
+  left:647px;
+  top:2804px;
+  width:1px;
+  height:1px;
 }
 #u2614_img {
   position:absolute;
@@ -5560,6 +5602,13 @@
   top:21px;
   width:342px;
   word-wrap:break-word;
+}
+#u2710_ann {
+  position:absolute;
+  left:1221px;
+  top:900px;
+  width:1px;
+  height:1px;
 }
 #u2712_img {
   position:absolute;
